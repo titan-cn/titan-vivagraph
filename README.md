@@ -17,4 +17,6 @@ titan-vivagraph
 Titan visualization with [VivaGraphJS](https://github.com/anvaka/VivaGraphJS),before run index.html,please edit "rexster-host-ip" to your real IP address.
 
 -------------------------------------------------------
-{% img static/titan-viva.png %}
+{% img /static/titan-viva.png %}
+
+
